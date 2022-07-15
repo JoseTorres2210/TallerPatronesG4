@@ -1,4 +1,4 @@
-package FactoryMethod;
+package parrafo1FactoryMethod;
 
 public class TarjetaVIP extends TarjetaCredito {
 
